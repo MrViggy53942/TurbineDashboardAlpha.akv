@@ -1,0 +1,4 @@
+timestamp,wind_speed,temperature,power_generated,turbine_direction,theoretical_power
+2025-02-19T12:00:00,12.5,25.3,500,180,520
+2025-02-19T12:01:00,13.0,25.1,510,185,530
+2025-02-19T12:02:00,14.2,24.9,520,190,540
